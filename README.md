@@ -11,7 +11,7 @@ This is a simple MAC address changer program for Linux.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MAC-Address-Changer.git
+   git clone https://github.com/andymartinez1/MAC-Address-Changer.git
    ```
 2. Navigate to the project directory:
    ```bash
